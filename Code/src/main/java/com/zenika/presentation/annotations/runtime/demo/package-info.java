@@ -1,0 +1,1 @@
+@MyAnnotation package com.zenika.presentation.annotations.runtime.demo;
